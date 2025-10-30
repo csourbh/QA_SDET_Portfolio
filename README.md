@@ -31,7 +31,7 @@ Currently, I am enhancing my skills in **Cypress**, **Playwright**, and **self-h
 
 ## 🏢 Professional Experience
 
-### **R1 RCM, Noida** — *QA Automation Engineer / SDET*  
+### **R1 RCM, Noida** — *QA*  
 📅 Dec 2023 – Present  
 - Automated regression and smoke test suites using **Selenium WebDriver + TestNG + Maven**.  
 - Built **BDD framework with Cucumber**, improving script reusability by 35%.  
@@ -39,7 +39,7 @@ Currently, I am enhancing my skills in **Cypress**, **Playwright**, and **self-h
 - Integrated **Jenkins CI/CD pipelines** for nightly builds and email reports.  
 - Performed **cross-browser testing** using Selenium Grid.
 
-### **Pacific (Access Healthcare), Noida** — *QA Automation Engineer*  
+### **Pacific (Access Healthcare), Noida** — *QA*  
 📅 Jan 2023 – Dec 2023  
 - Developed automation scripts using **Selenium WebDriver + Extent Reports**.  
 - Validated REST APIs and JSON payloads using **REST Assured** with assertions.  
