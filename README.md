@@ -3,7 +3,7 @@
 
 📍 Noida, India  
 📧 csourbh9@gmail.com  
-🔗 [LinkedIn](#) | [GitHub](https://github.com/csourbh)
+🔗 [LinkedIn](https://www.linkedin.com/in/sourbh-c/) | [GitHub](https://github.com/csourbh)
 
 ---
 
